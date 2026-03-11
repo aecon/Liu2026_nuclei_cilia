@@ -11,7 +11,7 @@ Download the repository and the `.ilp` files with Git:
 3. Clone the repository:
 
 ```bash
-git clone https://github.com/aecon/Tinting_celia.git
+git clone https://github.com/aecon/Tingting_cilia.git
 cd Tinting_celia
 git lfs pull
 ```
