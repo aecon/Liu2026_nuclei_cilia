@@ -1,11 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-#ILASTIK="/home/neptun/Downloads/ilastik-1.4.0.post1-Linux/run_ilastik.sh"
-#PROJECT="/media/neptun/SpeedDrive/Michele/nuclei_area/nuclei_with_TopHat.ilp"
-
-
-
 # Check usage
 
 usage() {
