@@ -20,8 +20,12 @@ After this, the .ilp files should appear inside the `ilastik/` folder.
 
 ## Requirements
 
+### ilastik
 Download [ilastik](https://www.ilastik.org/download).  
 This project uses ilastik version `Release 1.4.1.post1 (31. May 2025)`.
+
+### Fiji
+Download [Fiji](https://imagej.net/software/fiji/downloads).
 
 
 ## Workflow
