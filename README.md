@@ -20,8 +20,8 @@ After this, the .ilp files should appear inside the `ilastik/` folder.
 
 ## Requirements
 
-Download [ilastik](https://www.ilastik.org/download).
-
+Download [ilastik](https://www.ilastik.org/download).  
+This project uses ilastik version `Release 1.4.1.post1 (31. May 2025)`.
 
 
 ## Workflow
