@@ -54,3 +54,14 @@ This runs `ilastik` on files that do not yet have a matching `_probabilities.tif
 and creates a zip file called `probabilities.zip` in the main image folder that contains
 all probability maps.
 
+
+### 3. Generation of probability maps
+
+Depending on the input data, use wither of the three ImageJ macros (similar usage as step 1. Pre-processing) to perform quantification.
+```
+3_2Dnuclei.ijm
+3_5B2_quantification.ijm
+3_COCS.ijm
+
+```
+
