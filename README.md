@@ -34,7 +34,7 @@ The processed images will be saved in the same folders as the originals, with su
    - on Linux, this is usually done by **right-clicking inside the folder** and choosing **"Open in Terminal"**
 3. Find the full paths to:
    - the ilastik launcher file: `run_ilastik.sh`
-   - the ilastik project file: eg. `ilastik/nuclei.ilp`
+   - the ilastik project file: eg. `ilastik/nuclei_with_TopHat.ilp`
    - the main folder containing your images
 4. Run this command in the terminal:
 ```bash
