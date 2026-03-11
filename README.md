@@ -18,6 +18,11 @@ git lfs pull
 After this, the .ilp files should appear inside the `ilastik/` folder.
 
 
+## Requirements
+
+Download [ilastik](https://www.ilastik.org/download).
+
+
 
 ## Workflow
 
