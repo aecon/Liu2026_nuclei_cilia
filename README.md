@@ -3,17 +3,20 @@
 Scripts for the image analysis of the paper: xxx
 
 
+## How to download this repository
 
-## Overview
-The workflow consists of three steps:
+Download the repository and the `.ilp` files with Git:
+1. Open a **terminal**.
+2. Go to the folder where you want to save the repository.
+3. Clone the repository:
 
-1. **Preprocessing in ImageJ**  
-   Apply a Top Hat filter to all `.tif` images inside subfolders and save the result as new TIFF files with suffix `_tophat.tif`.
+```bash
+git clone https://github.com/aecon/Tinting_celia.git
+cd Tinting_celia
+git lfs pull
+```
+After this, the .ilp files should appear inside the `ilastik/` folder.
 
-2. **Probability map generation with ilastik**  
-   Run an ilastik pixel-classification project on all `_tophat.tif` files that have not yet been processed, and save the output as `_probabilities.tif`. At the end, all probability files are collected into a zip archive.
-
-3. **Area or Volume quantification in ImageJ**
 
 
 ## Workflow
