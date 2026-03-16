@@ -65,6 +65,5 @@ Depending on the input data, use wither of the three ImageJ macros (similar usag
 ```
 3_postprocess_2D.ijm
 3_postprocess_3D.ijm
-
 ```
 
