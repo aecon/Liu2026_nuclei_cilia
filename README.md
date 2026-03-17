@@ -1,6 +1,6 @@
 # Image analysis
 
-Scripts for the image analysis of the paper: ***<COMING SOON>***
+Scripts for the image analysis of the paper: ***COMING SOON !!***
 
 
 ## How to download this repository
