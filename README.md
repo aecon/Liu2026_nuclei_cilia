@@ -11,8 +11,8 @@ Download the repository and the `.ilp` files with Git:
 3. Clone the repository:
 
 ```bash
-git clone https://github.com/aecon/Tingting_cilia.git
-cd Tinting_celia
+git clone https://github.com/aecon/Liu2026_nuclei_cilia.git
+cd Liu2026_nuclei_cilia
 git lfs pull
 ```
 After this, the .ilp files should appear inside the `ilastik/` folder.
